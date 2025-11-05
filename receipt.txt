@@ -1,0 +1,9 @@
+Receipt:Mon Feb 26 14:15:29 2024
+----------------------------------------
+Drinks Ordered:
+Ice-Light Coffee x1 = RM7.00
+Ice-Mocha x1 = RM12.00
+
+Total Amount: RM19.00
+Payment: RM50.00
+Change: RM31.00
